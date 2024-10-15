@@ -1,5 +1,8 @@
 _repo: What-to-draw-and-how-to-draw-it_74518
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74518-h/images/cover.jpg
 creator:
   author:
     agent_name: Lutz, Edwin George
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57078
     wikipedia: https://en.wikipedia.org/wiki/Edwin_George_Lutz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74518#What-to-draw-and-how-to-draw-it
 gutenberg_issued: '2024-10-04'
 gutenberg_type: Text
 identifiers:
